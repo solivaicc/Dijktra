@@ -66,5 +66,5 @@ target/
 # PyCharm
 .idea/
 
-# Compose files
-docker-compose.yml
+# salida
+./data
