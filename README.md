@@ -21,11 +21,11 @@ En caso de no tener python instalado en la maquina, utilizar contenedor de docke
 Docker version 17.12.1-ce+, docker-compose version 1.17.1
 
 
-#Instrucciones
+## Instrucciones
 docker-compose build
 
 docker-compose up -d
 
 
-#Verificacion
+# Verificacion
 Ver salida.txt en la carpeta data
